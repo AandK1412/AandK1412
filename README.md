@@ -29,12 +29,4 @@
 ---
 
 
-### 🌱 right now
-
-- 🔍 hunting for entry-level **Data Analyst** roles in the US *(F-1 OPT)*
-- 📚 levelling up on cloud data tools & advanced SQL
-- 🤝 volunteering with **Spark-A-Change** — teaching kids to build with tech
-
----
-
 <p align="center"><sub> There Is No Prize To Perfection, Only An End To Pursuit. </sub></p>

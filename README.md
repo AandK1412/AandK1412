@@ -37,4 +37,4 @@
 
 ---
 
-<p align="center"><sub>👀 poke around my repos · ⭐ star anything useful · 📬 always happy to chat data</sub></p>
+<p align="center"><sub> There Is No Prize To Perfection, Only An End To Pursuit. </sub></p>

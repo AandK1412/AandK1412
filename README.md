@@ -28,15 +28,6 @@
 
 ---
 
-### 📈 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="140"/>
-</p>
-
----
 
 ### 🌱 right now
 

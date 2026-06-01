@@ -1,6 +1,6 @@
 # Hey, I'm Anrunya 👋 &nbsp;[![LinkedIn](https://img.shields.io/badge/-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anrunya-patole-817126269/) [![Email](https://img.shields.io/badge/-email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anrunya@gmail.com)
 
-> 📊 M.Sc. Business Analytics @ Virginia Tech · turning raw data into "aha!" moments · Winchester, VA
+> 📊 M.Sc. Business Analytics @ Virginia Tech · turning raw data into "aha!" moments · Blacksburg, VA
 
 ---
 
